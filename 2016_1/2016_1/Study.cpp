@@ -1,5 +1,6 @@
 #include<stdio.h>
 
 {
-	printf("Hello version");
+	printf("version 1");
+
 }
